@@ -1,1 +1,15 @@
 vendor/
+.env
+node_modules/
+storage/app/public
+storage/framework
+storage/logs
+.DS_Store
+.vscode/
+.idea/
+.agent/
+.github/
+.cursor/
+.antigravity/
+.gemini/
+.claude/
