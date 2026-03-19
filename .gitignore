@@ -13,3 +13,5 @@ storage/logs
 .antigravity/
 .gemini/
 .claude/
+.env.local
+.env.example
